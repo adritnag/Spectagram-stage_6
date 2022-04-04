@@ -1,2 +1,1 @@
-# Spectagram-stage_6
-Spectagram stage 6
+# Spectagram-Stage-6
